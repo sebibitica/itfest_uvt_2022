@@ -5,7 +5,7 @@ Because making sure that everyone at the course is there is hard we brought you 
 
 ---
 
-The user is welcomed with a strat page, where he can choose to Login or Register:
+The user is welcomed with a start page, where he can choose to Login or Register:
 
 <img src="./readmeImages/start.jpg" width="288" height="512">
 
